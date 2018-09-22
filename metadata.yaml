@@ -1,5 +1,8 @@
 _repo: Wild-Flowers-of-Zion-and-Bryce-Canyon-National-Parks-and-Cedar-Breaks-National-Monument_55363
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55363-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Allen, Leland Francis
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '48301'
     url: http://www.gutenberg.org/2009/agents/48301
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55363#Wild-Flowers-of-Zion-and-Bryce-Canyon-National-Parks-and-Cedar-Breaks-National-Monument
 gutenberg_issued: '2017-08-16'
 gutenberg_type: Text
 identifiers:
